@@ -1,0 +1,24 @@
+# --- IDE settings ---
+.idea/
+
+# --- Python caches ---
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# --- Virtual environments ---
+.venv/
+
+# --- Databases ---
+*.db
+
+# --- macOS system files ---
+__MACOSX/
+.DS_Store
+
+# --- Env files ---
+.env
+
+# --- Test-related artifacts ---
+htmlcov/
