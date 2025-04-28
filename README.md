@@ -40,5 +40,4 @@
 - **Sales Report**
   - `GET /sales`
 
----
-*All code is formatted with ruff, type-checked with mypy, and covered by pytest.*
+
